@@ -8,7 +8,7 @@
 
 Un técnico llega a las oficinas del **CFP** tras recibir una **llamada anónima** solicitando mantenimiento en una de las computadoras del lugar.
 Al llegar, se comunica mediante una **aplicación de chat** con un supuesto empleado que le explica la situación:
-una **inteligencia artificial** en desarrollo ha tomado el control de los sistemas y existe el riesgo de que se propague a otros servidores.
+una **inteligencia artificial** (Generador Experimental de Razonamiento y Modelado Algorítmico Numérico) en desarrollo ha tomado el control de los sistemas y existe el riesgo de que se propague a otros servidores.
 
 Para evitarlo, el jugador debe resolver una serie de **acertijos** (aparentemente diseñados por la propia IA) con el objetivo de obtener una **contraseña final** que permita **eliminarla** antes de que se acabe el tiempo y la IA se libere por sus propios medios.
 
