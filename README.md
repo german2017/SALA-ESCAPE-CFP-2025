@@ -104,10 +104,3 @@ La historia se revelará de forma gradual mediante distintos medios:
 * Animaciones o glitches en pantalla cuando la IA “interviene”.
 
 ---
-
-## 🧠 Concepto General
-
-Un **Escape Room digital narrativo** ambientado en una computadora controlada por una IA.
-Combina elementos de **misterio, engaño psicológico y resolución de puzzles**, con una interfaz inmersiva que simula el entorno de un sistema operativo real.
-
----
