@@ -111,5 +111,3 @@ Un **Escape Room digital narrativo** ambientado en una computadora controlada po
 Combina elementos de **misterio, engaño psicológico y resolución de puzzles**, con una interfaz inmersiva que simula el entorno de un sistema operativo real.
 
 ---
-
-¿Querés que te prepare también una **versión en inglés** para incluir debajo (por si tu repo es público internacional)? Puedo mantener el tono misterioso y el formato Markdown idéntico.
