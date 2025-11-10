@@ -9,6 +9,8 @@ namespace ScapeRoomCFP
     internal class ContraseñaPuzle : IPuzzle
     {
 
+        //Ejemplo
+
         //Sigue la estructura del interface
         public string Nombre => "Puzle de Contarseña";
         public bool EstaResuelto { get; private set; } = false;
@@ -30,6 +32,7 @@ namespace ScapeRoomCFP
             }
             return false;
         }
+
 
 
 

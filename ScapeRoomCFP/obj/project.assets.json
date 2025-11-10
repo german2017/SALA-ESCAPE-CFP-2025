@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OmarO\\Desktop\\Clases\\C#\\ScapeRoomCFP\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
+      "projectUniqueName": "C:\\Users\\OmarO\\Desktop\\Github\\ScapeRoom\\SALA-ESCAPE-CFP-2025\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
       "projectName": "ScapeRoomCFP",
-      "projectPath": "C:\\Users\\OmarO\\Desktop\\Clases\\C#\\ScapeRoomCFP\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
+      "projectPath": "C:\\Users\\OmarO\\Desktop\\Github\\ScapeRoom\\SALA-ESCAPE-CFP-2025\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
       "packagesPath": "C:\\Users\\OmarO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OmarO\\Desktop\\Clases\\C#\\ScapeRoomCFP\\ScapeRoomCFP\\obj\\",
+      "outputPath": "C:\\Users\\OmarO\\Desktop\\Github\\ScapeRoom\\SALA-ESCAPE-CFP-2025\\ScapeRoomCFP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

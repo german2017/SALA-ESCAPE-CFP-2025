@@ -54,6 +54,7 @@
             button1.Size = new Size(78, 72);
             button1.TabIndex = 1;
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -164,6 +165,7 @@
             Controls.Add(button1);
             Controls.Add(menuStrip1);
             FormBorderStyle = FormBorderStyle.FixedDialog;
+            IsMdiContainer = true;
             MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "Form1";
