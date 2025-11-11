@@ -91,6 +91,7 @@
             button4.Size = new Size(78, 72);
             button4.TabIndex = 4;
             button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // button5
             // 
@@ -98,7 +99,7 @@
             button5.BackgroundImage = (Image)resources.GetObject("button5.BackgroundImage");
             button5.BackgroundImageLayout = ImageLayout.Stretch;
             button5.FlatStyle = FlatStyle.Flat;
-            button5.Location = new Point(1131, 487);
+            button5.Location = new Point(1059, 541);
             button5.Name = "button5";
             button5.Size = new Size(78, 72);
             button5.TabIndex = 5;
@@ -122,9 +123,9 @@
             menuStrip1.BackColor = Color.LightSteelBlue;
             menuStrip1.Dock = DockStyle.Bottom;
             menuStrip1.Items.AddRange(new ToolStripItem[] { inicioToolStripMenuItem });
-            menuStrip1.Location = new Point(0, 600);
+            menuStrip1.Location = new Point(0, 625);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1233, 45);
+            menuStrip1.Size = new Size(1149, 45);
             menuStrip1.TabIndex = 7;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -157,7 +158,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(1233, 645);
+            ClientSize = new Size(1149, 670);
             Controls.Add(button6);
             Controls.Add(button5);
             Controls.Add(button4);

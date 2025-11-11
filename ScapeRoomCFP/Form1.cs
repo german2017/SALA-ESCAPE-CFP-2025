@@ -29,8 +29,16 @@ namespace ScapeRoomCFP
             //abrir formulario del captcha
             CaptchaImgForm formCaptchaImgForm = new CaptchaImgForm();
             formCaptchaImgForm.MdiParent = this;
-            formCaptchaImgForm.Show();  
+            formCaptchaImgForm.Show();
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            //abrir formulario del wordio
+            Word_Io formWordio = new Word_Io();
+            formWordio.MdiParent = this;
+            formWordio.Show();
         }
     }
 }

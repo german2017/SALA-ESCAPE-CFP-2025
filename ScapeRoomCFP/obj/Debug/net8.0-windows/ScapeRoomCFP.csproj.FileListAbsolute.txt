@@ -55,3 +55,4 @@ C:\Users\OmarO\Desktop\SALA-ESCAPE-CFP-2025-main\ScapeRoomCFP\obj\Debug\net8.0-w
 C:\Users\OmarO\Desktop\SALA-ESCAPE-CFP-2025-main\ScapeRoomCFP\obj\Debug\net8.0-windows\ScapeRoomCFP.pdb
 C:\Users\OmarO\Desktop\SALA-ESCAPE-CFP-2025-main\ScapeRoomCFP\obj\Debug\net8.0-windows\ScapeRoomCFP.genruntimeconfig.cache
 C:\Users\OmarO\Desktop\SALA-ESCAPE-CFP-2025-main\ScapeRoomCFP\obj\Debug\net8.0-windows\ref\ScapeRoomCFP.dll
+C:\Users\OmarO\Desktop\SALA-ESCAPE-CFP-2025-main\ScapeRoomCFP\obj\Debug\net8.0-windows\ScapeRoomCFP.Word_Io.resources
