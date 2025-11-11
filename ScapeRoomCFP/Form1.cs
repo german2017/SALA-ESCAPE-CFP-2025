@@ -24,5 +24,13 @@ namespace ScapeRoomCFP
 
         }
 
+        private void button6_Click(object sender, EventArgs e)
+        {
+            //abrir formulario del captcha
+            CaptchaImgForm formCaptchaImgForm = new CaptchaImgForm();
+            formCaptchaImgForm.MdiParent = this;
+            formCaptchaImgForm.Show();  
+
+        }
     }
 }

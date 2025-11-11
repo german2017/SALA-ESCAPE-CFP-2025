@@ -26,5 +26,10 @@ namespace ScapeRoomCFP
             //Mostrar el primer mensaje al iniciar el chat en el label
             label1.Text = chat.RecibirPrimerMensaje();
         }
+
+        private void Chat_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

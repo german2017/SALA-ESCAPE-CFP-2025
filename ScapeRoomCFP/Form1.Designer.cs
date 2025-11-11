@@ -115,6 +115,7 @@
             button6.Size = new Size(78, 72);
             button6.TabIndex = 6;
             button6.UseVisualStyleBackColor = false;
+            button6.Click += button6_Click;
             // 
             // menuStrip1
             // 

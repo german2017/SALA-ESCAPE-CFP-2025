@@ -197,6 +197,7 @@
             Controls.Add(groupBox1);
             Name = "Chat";
             Text = "Chat";
+            Load += Chat_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
