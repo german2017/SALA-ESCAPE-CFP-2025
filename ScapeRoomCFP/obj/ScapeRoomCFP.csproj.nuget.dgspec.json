@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OmarO\\Desktop\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\ScapeRoomCFP.csproj": {}
+    "C:\\Users\\Lean\\Desktop\\practica_VS\\HOLA\\ScapeRoomCFP\\ScapeRoomCFP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OmarO\\Desktop\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\ScapeRoomCFP.csproj": {
+    "C:\\Users\\Lean\\Desktop\\practica_VS\\HOLA\\ScapeRoomCFP\\ScapeRoomCFP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OmarO\\Desktop\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
+        "projectUniqueName": "C:\\Users\\Lean\\Desktop\\practica_VS\\HOLA\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
         "projectName": "ScapeRoomCFP",
-        "projectPath": "C:\\Users\\OmarO\\Desktop\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
-        "packagesPath": "C:\\Users\\OmarO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OmarO\\Desktop\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\obj\\",
+        "projectPath": "C:\\Users\\Lean\\Desktop\\practica_VS\\HOLA\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
+        "packagesPath": "C:\\Users\\Lean\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lean\\Desktop\\practica_VS\\HOLA\\ScapeRoomCFP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\OmarO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lean\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,8 +25,7 @@
           "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
