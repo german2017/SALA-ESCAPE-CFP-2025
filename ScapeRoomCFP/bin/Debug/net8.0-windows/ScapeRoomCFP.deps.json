@@ -7,14 +7,60 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ScapeRoomCFP/1.0.0": {
+        "dependencies": {
+          "CodigosSecretosForm": "1.0.0",
+          "desafio1Form": "1.0.0"
+        },
         "runtime": {
           "ScapeRoomCFP.dll": {}
+        }
+      },
+      "ClasesSalaEscape/1.0.0": {
+        "runtime": {
+          "ClasesSalaEscape.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CodigosSecretosForm/1.0.0": {
+        "dependencies": {
+          "ClasesSalaEscape": "1.0.0"
+        },
+        "runtime": {
+          "CodigosSecretosForm.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "desafio1Form/1.0.0": {
+        "runtime": {
+          "desafio1Form.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ScapeRoomCFP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClasesSalaEscape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodigosSecretosForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "desafio1Form/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

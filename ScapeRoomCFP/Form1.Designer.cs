@@ -31,8 +31,8 @@
             components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
+            btnDesafio1 = new Button();
+            btnDesafio2 = new Button();
             button4 = new Button();
             button5 = new Button();
             button6 = new Button();
@@ -56,29 +56,31 @@
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
-            // button2
+            // btnDesafio1
             // 
-            button2.BackColor = Color.Transparent;
-            button2.BackgroundImage = (Image)resources.GetObject("button2.BackgroundImage");
-            button2.BackgroundImageLayout = ImageLayout.Stretch;
-            button2.FlatStyle = FlatStyle.Flat;
-            button2.Location = new Point(13, 109);
-            button2.Name = "button2";
-            button2.Size = new Size(78, 72);
-            button2.TabIndex = 2;
-            button2.UseVisualStyleBackColor = false;
+            btnDesafio1.BackColor = Color.Transparent;
+            btnDesafio1.BackgroundImage = (Image)resources.GetObject("btnDesafio1.BackgroundImage");
+            btnDesafio1.BackgroundImageLayout = ImageLayout.Stretch;
+            btnDesafio1.FlatStyle = FlatStyle.Flat;
+            btnDesafio1.Location = new Point(13, 109);
+            btnDesafio1.Name = "btnDesafio1";
+            btnDesafio1.Size = new Size(78, 72);
+            btnDesafio1.TabIndex = 2;
+            btnDesafio1.UseVisualStyleBackColor = false;
+            btnDesafio1.Click += btnDesafio1_Click;
             // 
-            // button3
+            // btnDesafio2
             // 
-            button3.BackColor = Color.Transparent;
-            button3.BackgroundImage = (Image)resources.GetObject("button3.BackgroundImage");
-            button3.BackgroundImageLayout = ImageLayout.Stretch;
-            button3.FlatStyle = FlatStyle.Flat;
-            button3.Location = new Point(13, 204);
-            button3.Name = "button3";
-            button3.Size = new Size(78, 72);
-            button3.TabIndex = 3;
-            button3.UseVisualStyleBackColor = false;
+            btnDesafio2.BackColor = Color.Transparent;
+            btnDesafio2.BackgroundImage = (Image)resources.GetObject("btnDesafio2.BackgroundImage");
+            btnDesafio2.BackgroundImageLayout = ImageLayout.Stretch;
+            btnDesafio2.FlatStyle = FlatStyle.Flat;
+            btnDesafio2.Location = new Point(13, 204);
+            btnDesafio2.Name = "btnDesafio2";
+            btnDesafio2.Size = new Size(78, 72);
+            btnDesafio2.TabIndex = 3;
+            btnDesafio2.UseVisualStyleBackColor = false;
+            btnDesafio2.Click += btnDesafio2_Click;
             // 
             // button4
             // 
@@ -162,8 +164,8 @@
             Controls.Add(button6);
             Controls.Add(button5);
             Controls.Add(button4);
-            Controls.Add(button3);
-            Controls.Add(button2);
+            Controls.Add(btnDesafio2);
+            Controls.Add(btnDesafio1);
             Controls.Add(button1);
             Controls.Add(menuStrip1);
             FormBorderStyle = FormBorderStyle.FixedDialog;
@@ -179,8 +181,8 @@
 
         #endregion
         private Button button1;
-        private Button button2;
-        private Button button3;
+        private Button btnDesafio1;
+        private Button btnDesafio2;
         private Button button4;
         private Button button5;
         private Button button6;

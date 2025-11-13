@@ -1,3 +1,6 @@
+using CodigosSecretosForm;
+using desafio1Form;
+
 namespace ScapeRoomCFP
 {
     public partial class Form1 : Form
@@ -39,6 +42,21 @@ namespace ScapeRoomCFP
             Word_Io formWordio = new Word_Io();
             formWordio.MdiParent = this;
             formWordio.Show();
+        }
+
+        private void btnDesafio1_Click(object sender, EventArgs e)
+        {
+            //abrir formulario del frmDesafio1
+            frmDesafio1 Desafio1 = new frmDesafio1();
+            Desafio1.MdiParent = this;
+            Desafio1.Show();
+        }
+
+        private void btnDesafio2_Click(object sender, EventArgs e)
+        {
+            frmCodigosSecretos Desafio2 = new frmCodigosSecretos();
+            Desafio2.MdiParent = this;
+            Desafio2.Show();
         }
     }
 }

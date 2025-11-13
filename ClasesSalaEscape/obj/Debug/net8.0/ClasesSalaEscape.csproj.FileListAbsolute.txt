@@ -1,0 +1,12 @@
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\bin\Debug\net8.0\ClasesSalaEscape.deps.json
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\bin\Debug\net8.0\ClasesSalaEscape.dll
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\bin\Debug\net8.0\ClasesSalaEscape.pdb
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\obj\Debug\net8.0\ClasesSalaEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\obj\Debug\net8.0\ClasesSalaEscape.AssemblyInfoInputs.cache
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\obj\Debug\net8.0\ClasesSalaEscape.AssemblyInfo.cs
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\obj\Debug\net8.0\ClasesSalaEscape.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\obj\Debug\net8.0\ClasesSalaEscape.sourcelink.json
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\obj\Debug\net8.0\ClasesSalaEscape.dll
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\obj\Debug\net8.0\refint\ClasesSalaEscape.dll
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\obj\Debug\net8.0\ClasesSalaEscape.pdb
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\ClasesSalaEscape\obj\Debug\net8.0\ref\ClasesSalaEscape.dll

@@ -1,0 +1,17 @@
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\bin\Debug\net8.0-windows\desafio1Form.exe
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\bin\Debug\net8.0-windows\desafio1Form.deps.json
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\bin\Debug\net8.0-windows\desafio1Form.runtimeconfig.json
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\bin\Debug\net8.0-windows\desafio1Form.dll
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\bin\Debug\net8.0-windows\desafio1Form.pdb
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.frmDesafio1.resources
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.csproj.GenerateResource.cache
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.AssemblyInfoInputs.cache
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.AssemblyInfo.cs
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.sourcelink.json
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.dll
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\refint\desafio1Form.dll
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.pdb
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\desafio1Form.genruntimeconfig.cache
+C:\Users\usuario\Source\Repos\SALA-ESCAPE-CFP-2025\desafio1Form\obj\Debug\net8.0-windows\ref\desafio1Form.dll

@@ -1,30 +1,89 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "ClasesSalaEscape/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ClasesSalaEscape.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClasesSalaEscape.dll": {}
+        }
+      },
+      "CodigosSecretosForm/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ClasesSalaEscape": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CodigosSecretosForm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodigosSecretosForm.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "desafio1Form/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/desafio1Form.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/desafio1Form.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ClasesSalaEscape/1.0.0": {
+      "type": "project",
+      "path": "../ClasesSalaEscape/ClasesSalaEscape.csproj",
+      "msbuildProject": "../ClasesSalaEscape/ClasesSalaEscape.csproj"
+    },
+    "CodigosSecretosForm/1.0.0": {
+      "type": "project",
+      "path": "../CodigosSecretosForm/CodigosSecretosForm.csproj",
+      "msbuildProject": "../CodigosSecretosForm/CodigosSecretosForm.csproj"
+    },
+    "desafio1Form/1.0.0": {
+      "type": "project",
+      "path": "../desafio1Form/desafio1Form.csproj",
+      "msbuildProject": "../desafio1Form/desafio1Form.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "CodigosSecretosForm >= 1.0.0",
+      "desafio1Form >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\OmarO\\.nuget\\packages\\": {},
+    "C:\\Users\\usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OmarO\\Desktop\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Source\\Repos\\SALA-ESCAPE-CFP-2025\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
       "projectName": "ScapeRoomCFP",
-      "projectPath": "C:\\Users\\OmarO\\Desktop\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
-      "packagesPath": "C:\\Users\\OmarO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OmarO\\Desktop\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\obj\\",
+      "projectPath": "C:\\Users\\usuario\\Source\\Repos\\SALA-ESCAPE-CFP-2025\\ScapeRoomCFP\\ScapeRoomCFP.csproj",
+      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\usuario\\Source\\Repos\\SALA-ESCAPE-CFP-2025\\ScapeRoomCFP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\OmarO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -38,7 +97,14 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\usuario\\Source\\Repos\\SALA-ESCAPE-CFP-2025\\CodigosSecretosForm\\CodigosSecretosForm.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Source\\Repos\\SALA-ESCAPE-CFP-2025\\CodigosSecretosForm\\CodigosSecretosForm.csproj"
+            },
+            "C:\\Users\\usuario\\Source\\Repos\\SALA-ESCAPE-CFP-2025\\desafio1Form\\desafio1Form.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Source\\Repos\\SALA-ESCAPE-CFP-2025\\desafio1Form\\desafio1Form.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -75,7 +141,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
